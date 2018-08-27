@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Routin</string>
+    <string name="heading">PHONE NUMBER VERIFICATION</string>
+    <string name="title">India(+91)</string>
+    <string name="content">enter phone number</string>
+    <string name="content1">Please enter your phone number.we will send you an OTP for verification</string>
+    <string name="content2">Name</string>
+    <string name="content3">E-mail</string>
+    <string name="content4">Referral code</string>
+
+</resources>
